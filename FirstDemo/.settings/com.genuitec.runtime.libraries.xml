@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+  <container path="com.genuitec.runtime.library/com.genuitec.struts_1.3">
+    <jar-attrs id="data/1.3/lib/struts-core-1.3.8.jar">
+      <attribute name="javadoc_location" value="http://struts.apache.org/release/1.3.x/apidocs/"/>
+      <attribute name="source-path-root"/>
+      <attribute name="source-path" value="/media/chen-gui/SoftwarePackage/SoftwarePackage/DevTools/Tomcat/struts-1.3.10-all.zip"/>
+    </jar-attrs>
+  </container>
+</project>
